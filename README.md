@@ -1,9 +1,6 @@
-# React + Vite
+# Career Development Program (Batch-07) - Spring Rain
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# react-redux-todo-app
+This project is built for the Spring Rain's Career Development Program (batch-07).
+# Assignment:
+- Add edit todo functionality
+You've to add a edit button in each todo in the todo list and when anyone clicked on the edit button then it will open a Add Todo like modal (you can convert this component also so that it works for both add and edit) with the data filled with the respective data. Then user edit the title or description and after saving it should update the state and display the updated todo in realtime.
